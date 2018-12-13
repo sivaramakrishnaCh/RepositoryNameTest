@@ -1,2 +1,2 @@
 Hi Git. How are you?
-
+Added a new line.
