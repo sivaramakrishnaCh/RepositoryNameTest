@@ -8,5 +8,6 @@ void main()
 	printf("Hello Khairatabad\n");
 	printf("Line 5\n");
 	printf("Line 6\n");
+	printf("Line 7\n");
 }
 
